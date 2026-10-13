@@ -1,0 +1,4 @@
+cluster,lead_time,total_nights,total_guests,adr,total_of_special_requests,booking_changed,has_children,has_parking,is_repeat,prior_cancel,weekend_share,is_canceled,size,revenue_share_pct
+0,89.069,3.966,3.438,155.618,0.927,0.271,0.996,0.12,0.001,0.007,0.266,0.346,9051,14.4
+1,81.69,3.664,1.887,102.37,0.672,0.169,0.0,0.075,0.0,0.013,0.266,0.276,74818,83.6
+2,17.158,1.936,1.394,65.019,0.691,0.207,0.025,0.181,1.0,0.19,0.204,0.078,3352,2.0
